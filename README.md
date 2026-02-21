@@ -1,9 +1,9 @@
-<p align="center"><img src="https://raw.githubusercontent.com/xyOps-tools/xyOps-ToFTP/refs/heads/main/logo.svg" height="108" alt="xyOps FTP Upload Logo"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/xyOps-tools/xyOps-FTP-Upload/refs/heads/main/logo.svg" height="108" alt="xyOps FTP Upload Logo"/></p>
 <h1 align="center">xyOps FTP Upload</h1>
 
 # xyOps FTP Upload Event Plugin
 
-[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](https://github.com/xyOps-tools/xyOps-ToFTP/releases)
+[![Version](https://img.shields.io/badge/version-1.2.0-blue.svg)](https://github.com/xyOps-tools/xyOps-FTP-Upload/releases)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![PowerShell](https://img.shields.io/badge/PowerShell-7.0+-blue.svg)](https://github.com/PowerShell/PowerShell)
 [![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows%20%7C%20macOS-lightgrey.svg)]()
@@ -89,7 +89,7 @@ Upload files to remote servers via **FTP**, **FTPS** (Explicit & Implicit TLS), 
 
 ```bash
 cd /opt/xyops/plugins
-git clone https://github.com/xyOps-tools/xyOps-ToFTP.git
+git clone https://github.com/xyOps-tools/xyOps-FTP-Upload.git
 ```
 
 ---
