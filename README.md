@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/xyOps-tools/xyOps-FTP-Upload/refs/heads/main/logo.svg" height="108" alt="xyOps FTP Upload Logo"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/talder/xyOps-FTP-Upload/refs/heads/main/logo.png" height="108" alt="xyOps FTP Upload Logo"/></p>
 <h1 align="center">xyOps FTP Upload</h1>
 
 # xyOps FTP Upload Event Plugin
